@@ -5,7 +5,7 @@
 [>>>>>>>>>>>>>>>>>>>阿里妈妈前端招聘啦~ ](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=1019223&track_id=SSP1691116011187KXRTJqqMmf1253)
 
 ## What is GoGoCode?
-
+可能是全网最简单
 [中文 README](README-cn.md)
 
 GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
